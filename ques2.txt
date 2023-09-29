@@ -1,0 +1,9 @@
+A HTML entity is piece of text that begins with an ampersand and ends with a semicolon
+  for exmaple, the entity for the copyright symbol is &copy.
+  similarly,
+     for less than symbol it is &lt;
+     for ampersand symbol it is &amp;
+     for greaterthan symbol it is &gt;
+     for trade mark sign it is &trade;
+     for registered sign it is &reg;
+     for degree symbol it is &deg;

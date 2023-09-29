@@ -1,0 +1,5 @@
+BY proper use of HTML Markup
+include succinct, descriptive image alt text
+consider captcha options
+make video content ACCESSIBLE
+ensure the website can be navigated using only a keyboard.

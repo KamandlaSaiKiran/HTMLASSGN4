@@ -1,0 +1,39 @@
+Features of HTML5 are:
+   1.Navigation Tag <Nav>...</Nav>
+       examples are: <nav>
+      <a href="#">HTML</a> | 
+      <a href="#">CSS</a> | 
+      <a href="#">JavaScript</a> | 
+      <a href="#">Python</a> 
+    </nav>
+   2. Audio and Video Tags which helps to insert the audio with <audio> tag and videos with <video> tag
+         examples are:
+         <video width="400px" height="300px" controls>
+         <source src=" movie.mp4 " type="video/mp4">
+         </video>
+   3.Header tag used to point at the head
+       <header> 
+        <a href=
+                "https://www.shiksha.com/online-courses/technology-courses-certification-training-ct139">
+        Technology</a> | 
+        <a href=
+                "https://www.shiksha.com/online-courses/data-science-courses-certification-training-ct123">
+        Data Science</a> | 
+        <a href=
+                "https://www.shiksha.com/online-courses/management-courses-certification-training-ct135">
+        Management</a> | 
+        <a href=
+                    "https://www.shiksha.com/online-courses/articles/">
+        Blog</a> | 
+            </header>
+  4. Footer
+  5. Figure and Figurecaption
+     <figure>
+       <img src="#" alt="Figure">
+       <figcaption> Figure above</figcaption>
+     </figure>
+  6. Canvas tag
+  7. Mark Tag
+  8. Main Tag
+  9. Progress Tag
+  10. Section Tag
